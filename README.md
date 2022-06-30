@@ -1,6 +1,11 @@
 # vue2-pinia-demo
+![pinia](https://user-images.githubusercontent.com/29618814/176583196-301606d9-dd46-4f36-a903-8d8a32637c98.svg)
 
-#vue2使用pinia
+## pinia在vue2中的简单使用  
+[pinia官方文档]（https://pinia.web3doc.top/）
+
+## 使用pinia-plugin-persist插件做数据持久化  
+[官方文档]（https://seb-l.github.io/pinia-plugin-persist/#vue2）
 
 ## Project setup
 ```
