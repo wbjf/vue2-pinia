@@ -1,4 +1,6 @@
-# vue2-demo
+# vue2-pinia-demo
+
+#vue2使用pinia
 
 ## Project setup
 ```
